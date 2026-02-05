@@ -35,7 +35,8 @@ The platform ensures data integrity for satellite and medical applications by di
 - Features: 10 geometric radiation features (energy, angle, frequency, etc.)
 - Output: Binary classification → Gamma Identified or Hadronic Noise
 
-![output3](https://github.com/user-attachments/assets/858465af-4afe-4b4e-9466-96372f9b68c8)
-![output2](https://github.com/user-attachments/assets/67deeca7-d80e-47d5-88cf-e69f5207656f)
-![output1](https://github.com/user-attachments/assets/f3162291-2e2c-4c4b-8aba-b8fcb2ccaa9a)
+![output1](https://github.com/user-attachments/assets/c7bbdd90-6d86-4083-bafd-cdc06fed98b4)
+![output2](https://github.com/user-attachments/assets/e36bcb65-2f38-46a0-bf8a-13726e26bea1)
+![output3](https://github.com/user-attachments/assets/22bb3fb1-957d-4f01-92d4-350876111834)
+
 
